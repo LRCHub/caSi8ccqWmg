@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "Gimmie That Nutt",
+  "base_artist": "Eazy-E",
+  "createdAt": "2026-03-17T21:24:21.640339Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gimmie That Nutt",
+      "artist": "Eazy-E",
+      "has_synced": true,
+      "path": "select/01_Gimmie_That_Nutt_Eazy-E.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gimmie That Nutt",
+      "artist": "Eazy‐E",
+      "has_synced": true,
+      "path": "select/02_Gimmie_That_Nutt_Eazy‐E.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gimmie That Nutt",
+      "artist": "Eazy-E",
+      "has_synced": true,
+      "path": "select/03_Gimmie_That_Nutt_Eazy-E.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "gimmie that nutt",
+      "artist": "eazye",
+      "has_synced": true,
+      "path": "select/04_gimmie_that_nutt_eazye.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "05 - Gimmie That Nutt",
+      "artist": "Eazy-E",
+      "has_synced": true,
+      "path": "select/05_05_-_Gimmie_That_Nutt_Eazy-E.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Gimmie That Nutt",
+      "artist": "Eazy-E",
+      "has_synced": true,
+      "path": "select/06_Gimmie_That_Nutt_Eazy-E.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Gimmie That Nutt",
+      "artist": "Eazy-E",
+      "has_synced": false,
+      "path": "select/pl_01_Gimmie_That_Nutt_Eazy-E.txt"
+    }
+  ]
+}
